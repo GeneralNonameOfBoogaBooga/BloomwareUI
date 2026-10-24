@@ -1,0 +1,210 @@
+[
+  {
+    "name": "BloomwareUI",
+    "file": "init.lua"
+  },
+  {
+    "name": "BloomwareUI/Acrylic",
+    "file": "Acrylic/init.lua"
+  },
+  {
+    "name": "BloomwareUI/Acrylic/AcrylicBlur",
+    "file": "Acrylic/AcrylicBlur.lua"
+  },
+  {
+    "name": "BloomwareUI/Acrylic/AcrylicPaint",
+    "file": "Acrylic/AcrylicPaint.lua"
+  },
+  {
+    "name": "BloomwareUI/Acrylic/CreateAcrylic",
+    "file": "Acrylic/CreateAcrylic.lua"
+  },
+  {
+    "name": "BloomwareUI/Acrylic/Utils",
+    "file": "Acrylic/Utils.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Assets",
+    "file": "Components/Assets.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Button",
+    "file": "Components/Button.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Dialog",
+    "file": "Components/Dialog.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Element",
+    "file": "Components/Element.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Notification",
+    "file": "Components/Notification.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Section",
+    "file": "Components/Section.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Tab",
+    "file": "Components/Tab.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Textbox",
+    "file": "Components/Textbox.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/TitleBar",
+    "file": "Components/TitleBar.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/Window",
+    "file": "Components/Window.lua"
+  },
+  {
+    "name": "BloomwareUI/Creator",
+    "file": "Creator.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements",
+    "file": "Elements/init.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Button",
+    "file": "Elements/Button.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Colorpicker",
+    "file": "Elements/Colorpicker.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Dropdown",
+    "file": "Elements/Dropdown.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Input",
+    "file": "Elements/Input.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Keybind",
+    "file": "Elements/Keybind.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Paragraph",
+    "file": "Elements/Paragraph.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Slider",
+    "file": "Elements/Slider.lua"
+  },
+  {
+    "name": "BloomwareUI/Elements/Toggle",
+    "file": "Elements/Toggle.lua"
+  },
+  {
+    "name": "BloomwareUI/Icons",
+    "file": "Icons.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper",
+    "file": "Packages/Flipper/init.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/BaseMotor",
+    "file": "Packages/Flipper/BaseMotor.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/GroupMotor",
+    "file": "Packages/Flipper/GroupMotor.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/Instant",
+    "file": "Packages/Flipper/Instant.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/Linear",
+    "file": "Packages/Flipper/Linear.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/Signal",
+    "file": "Packages/Flipper/Signal.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/SingleMotor",
+    "file": "Packages/Flipper/SingleMotor.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/Spring",
+    "file": "Packages/Flipper/Spring.lua"
+  },
+  {
+    "name": "BloomwareUI/Packages/Flipper/isMotor",
+    "file": "Packages/Flipper/isMotor.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes",
+    "file": "Themes/init.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Amethyst",
+    "file": "Themes/Amethyst.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Aqua",
+    "file": "Themes/Aqua.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Dark",
+    "file": "Themes/Dark.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Darker",
+    "file": "Themes/Darker.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Light",
+    "file": "Themes/Light.lua"
+  },
+  {
+    "name": "BloomwareUI/Themes/Rose",
+    "file": "Themes/Rose.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/ProfilePanel",
+    "file": "Components/ProfilePanel.lua"
+  },
+  {
+    "name": "BloomwareUI/Components/SearchPanel",
+    "file": "Components/SearchPanel.lua"
+  },
+  {
+    "name": "BloomwareUI/Profiles",
+    "file": "Profiles.lua"
+  },
+  {
+    "name": "BloomwareUI/SearchIndex",
+    "file": "SearchIndex.lua"
+  },
+  {
+    "name": "BloomwareUI/Appearance",
+    "file": "Appearance.lua"
+  },
+  {
+    "name": "BloomwareUI/Compatibility",
+    "file": "Compatibility.lua"
+  },
+  {
+    "name": "BloomwareUI/RenewedIcons",
+    "file": "RenewedIcons.lua"
+  },
+  {
+    "name": "BloomwareUI/IconProvider",
+    "file": "IconProvider.lua"
+  },
+  {
+    "name": "BloomwareUI/RenewedThemes",
+    "file": "RenewedThemes.lua"
+  }
+]
